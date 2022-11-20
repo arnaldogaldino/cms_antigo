@@ -1,0 +1,5 @@
+D:\projetos\cms\cms.Boleto\obj\Debug\ResolveAssemblyReference.cache
+D:\projetos\cms\cms.Boleto\bin\Debug\cms.Boleto.dll
+D:\projetos\cms\cms.Boleto\bin\Debug\cms.Boleto.pdb
+D:\projetos\cms\cms.Boleto\obj\Debug\cms.Boleto.dll
+D:\projetos\cms\cms.Boleto\obj\Debug\cms.Boleto.pdb

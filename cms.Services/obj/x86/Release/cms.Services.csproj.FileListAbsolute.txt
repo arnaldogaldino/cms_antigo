@@ -1,0 +1,5 @@
+D:\projetos\cms\cms.Services\bin\Release\cms.Services.exe
+D:\projetos\cms\cms.Services\bin\Release\cms.Services.pdb
+D:\projetos\cms\cms.Services\obj\x86\Release\ResolveAssemblyReference.cache
+D:\projetos\cms\cms.Services\obj\x86\Release\cms.Services.exe
+D:\projetos\cms\cms.Services\obj\x86\Release\cms.Services.pdb

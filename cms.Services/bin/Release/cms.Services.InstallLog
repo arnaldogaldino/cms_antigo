@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\projetos\cms\cms.Services\bin\Release\cms.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.Services\bin\Release\cms.Services.InstallLog
+   assemblypath = D:\projetos\cms\cms.Services\bin\Release\cms.Services.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\projetos\cms\cms.Services\bin\Release\cms.Services.exe assembly.
+Committing assembly 'D:\projetos\cms\cms.Services\bin\Release\cms.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.Services\bin\Release\cms.Services.InstallLog
+   assemblypath = D:\projetos\cms\cms.Services\bin\Release\cms.Services.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\projetos\cms\cms.Services\bin\Release\cms.Services.exe assembly.
+Remove InstallState file because there are no installers.

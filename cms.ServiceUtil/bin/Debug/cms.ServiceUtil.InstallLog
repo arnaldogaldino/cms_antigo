@@ -1,0 +1,381 @@
+﻿Installing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Installing service ServiceCMSMain...
+Service ServiceCMSMain has been successfully installed.
+Creating EventLog source ServiceCMSMain in log Application...
+Committing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Uninstalling assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Removing EventLog source ServiceCMSMain.
+Service ServiceCMSMain is being removed from the system...
+Service ServiceCMSMain was successfully removed from the system.
+Installing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Installing service ServiceCMSMain...
+Service ServiceCMSMain has been successfully installed.
+Creating EventLog source ServiceCMSMain in log Application...
+Committing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Uninstalling assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Removing EventLog source ServiceCMSMain.
+Service ServiceCMSMain is being removed from the system...
+Service ServiceCMSMain was successfully removed from the system.
+Installing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Installing service ServiceCMSMain...
+Service ServiceCMSMain has been successfully installed.
+Creating EventLog source ServiceCMSMain in log Application...
+Committing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Uninstalling assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Removing EventLog source ServiceCMSMain.
+Service ServiceCMSMain is being removed from the system...
+Service ServiceCMSMain was successfully removed from the system.
+Installing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Installing service ServiceMain...
+Service ServiceMain has been successfully installed.
+Creating EventLog source ServiceMain in log Application...
+Committing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Uninstalling assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Removing EventLog source ServiceMain.
+Service ServiceMain is being removed from the system...
+Service ServiceMain was successfully removed from the system.
+Attempt to stop service ServiceMain.
+Uninstalling assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Removing EventLog source ServiceMain.
+Warning: The source ServiceMain is not registered on the local machine.
+Service ServiceMain is being removed from the system...
+Service ServiceMain was successfully removed from the system.
+Attempt to stop service ServiceMain.
+Uninstalling assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Removing EventLog source ServiceMain.
+Warning: The source ServiceMain is not registered on the local machine.
+Service ServiceMain is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Removing EventLog source ServiceMain.
+Warning: The source ServiceMain is not registered on the local machine.
+Service ServiceMain is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Installing service ServiceMain...
+Service ServiceMain has been successfully installed.
+Creating EventLog source ServiceMain in log Application...
+Committing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Uninstalling assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Removing EventLog source ServiceMain.
+Service ServiceMain is being removed from the system...
+Service ServiceMain was successfully removed from the system.
+Attempt to stop service ServiceMain.
+Uninstalling assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Removing EventLog source ServiceMain.
+Warning: The source ServiceMain is not registered on the local machine.
+Service ServiceMain is being removed from the system...
+Service ServiceMain was successfully removed from the system.
+Attempt to stop service ServiceMain.
+Uninstalling assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Removing EventLog source ServiceMain.
+Warning: The source ServiceMain is not registered on the local machine.
+Service ServiceMain is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Installing service ServiceMain...
+Service ServiceMain has been successfully installed.
+Creating EventLog source ServiceMain in log Application...
+Committing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Uninstalling assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Removing EventLog source ServiceMain.
+Service ServiceMain is being removed from the system...
+Service ServiceMain was successfully removed from the system.
+Installing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Installing service ServiceMain...
+Service ServiceMain has been successfully installed.
+Creating EventLog source ServiceMain in log Application...
+Committing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Uninstalling assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Removing EventLog source ServiceMain.
+Service ServiceMain is being removed from the system...
+Service ServiceMain was successfully removed from the system.
+Installing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Installing service ServiceMain...
+Service ServiceMain has been successfully installed.
+Creating EventLog source ServiceMain in log Application...
+Committing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Uninstalling assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Removing EventLog source ServiceMain.
+Service ServiceMain is being removed from the system...
+Service ServiceMain was successfully removed from the system.
+Installing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Installing service ServiceMain...
+Service ServiceMain has been successfully installed.
+Creating EventLog source ServiceMain in log Application...
+Committing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Uninstalling assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Removing EventLog source WCFWindowsServiceSample.
+Warning: The source WCFWindowsServiceSample is not registered on the local machine.
+Service WCFWindowsServiceSample is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Installing service WCFWindowsServiceSample...
+Service WCFWindowsServiceSample has been successfully installed.
+Creating EventLog source WCFWindowsServiceSample in log Application...
+Committing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Uninstalling assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Removing EventLog source ServiceMain.
+Service ServiceMain is being removed from the system...
+Service ServiceMain was successfully removed from the system.
+Installing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Installing service ServiceMain...
+Service ServiceMain has been successfully installed.
+Creating EventLog source ServiceMain in log Application...
+Committing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Uninstalling assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Removing EventLog source ServiceMain.
+Service ServiceMain is being removed from the system...
+Service ServiceMain was successfully removed from the system.
+Installing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Installing service ServiceMain...
+Service ServiceMain has been successfully installed.
+Creating EventLog source ServiceMain in log Application...
+Committing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Uninstalling assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Removing EventLog source ServiceMain.
+Service ServiceMain is being removed from the system...
+Service ServiceMain was successfully removed from the system.
+Installing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Installing service ServiceMain...
+Creating EventLog source ServiceMain in log Application...
+Rolling back assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Restoring event log to previous state for source ServiceMain.
+Installing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Installing service ServiceMain...
+Service ServiceMain has been successfully installed.
+Creating EventLog source ServiceMain in log Application...
+Committing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Uninstalling assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Removing EventLog source ServiceMain.
+Service ServiceMain is being removed from the system...
+Service ServiceMain was successfully removed from the system.
+Attempt to stop service ServiceMain.
+Installing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Installing service ServiceMain...
+Creating EventLog source ServiceMain in log Application...
+Rolling back assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Restoring event log to previous state for source ServiceMain.
+Uninstalling assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Removing EventLog source ServiceMain.
+Warning: The source ServiceMain is not registered on the local machine.
+Service ServiceMain is being removed from the system...
+Service ServiceMain was successfully removed from the system.
+Attempt to stop service ServiceMain.
+Installing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe
+Installing service ServiceMain...
+Service ServiceMain has been successfully installed.
+Creating EventLog source ServiceMain in log Application...
+Committing assembly 'D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.InstallLog
+   assemblypath = D:\projetos\cms\cms.ServiceUtil\bin\Debug\cms.ServiceUtil.exe

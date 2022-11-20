@@ -1,0 +1,8 @@
+D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe
+D:\projetos\cms\cms.Services\bin\Debug\cms.Services.pdb
+D:\projetos\cms\cms.Services\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\projetos\cms\cms.Services\obj\x86\Debug\cms.Services.ProjectInstaller.resources
+D:\projetos\cms\cms.Services\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\projetos\cms\cms.Services\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\projetos\cms\cms.Services\obj\x86\Debug\cms.Services.exe
+D:\projetos\cms\cms.Services\obj\x86\Debug\cms.Services.pdb

@@ -1,0 +1,112 @@
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\bin\Debug\NFeAdmin.exe.config
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\obj\Debug\RDI.NFe.Visual.FrmInutilizaNota.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\obj\Debug\RDI.NFe.Visual.FrmNotaInutilizada.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\obj\Debug\RDI.NFe.Visual.FrmCertificados.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\obj\Debug\RDI.NFe.Visual.FrmDiretorios.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\obj\Debug\RDI.NFe.Visual.FrmEditNota.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\obj\Debug\RDI.NFe.Visual.FrmEditServico.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\obj\Debug\RDI.NFe.Visual.FrmLog.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\obj\Debug\RDI.NFe.Visual.FrmLotes.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\obj\Debug\RDI.NFe.Visual.FrmMaster.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\obj\Debug\RDI.NFe.Visual.FrmMonitor.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\obj\Debug\RDI.NFe.Visual.FrmNotaFiscal.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\obj\Debug\RDI.NFe.Visual.FrmProxy.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\obj\Debug\RDI.NFe.Visual.FrmServicos.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\obj\Debug\RDI.NFe.Visual.FrmSobre.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\obj\Debug\NFeAdmin.Properties.Resources.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\obj\Debug\RDI.NFe.Visual.FrmSplash.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\obj\Debug\RDI.NFe.Visual.FrmVisualizaXML.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\obj\Debug\RDI.NFe.Visual.FrmWebService.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\obj\Debug\NFeAdminV2.0.csproj.GenerateResource.Cache
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\bin\Debug\NFeAdmin.exe
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\bin\Debug\NFeAdmin.pdb
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\bin\Debug\RDI.Lince.dll
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\obj\Debug\NFeAdmin.exe
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe\NFeAdmin v2.0\obj\Debug\NFeAdmin.pdb
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\bin\Debug\NFeAdmin.exe.config
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\bin\Debug\NFeAdmin.exe
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\bin\Debug\NFeAdmin.pdb
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\bin\Debug\RDI.Lince.dll
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\bin\Debug\RDI.NFe2.Business.dll
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\bin\Debug\RDI.NFe2.Business.pdb
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmInutilizaNota.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmNotaInutilizada.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmCertificados.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmDiretorios.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmEditNota.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmEditServico.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmLog.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmLotes.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmMaster.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmMonitor.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmNotaFiscal.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmProxy.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmServicos.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmSobre.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\NFeAdmin.Properties.Resources.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmSplash.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmVisualizaXML.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmWebService.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\RDI.timexRefresh.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\NFeAdminV2.0.csproj.GenerateResource.Cache
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\NFeAdmin.exe
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFeAdmin\obj\Debug\NFeAdmin.pdb
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\bin\Debug\NFeAdmin.exe.config
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\NFeAdmin.exe
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\NFeAdmin.pdb
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmInutilizaNota.resources
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmNotaInutilizada.resources
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmCertificados.resources
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmDiretorios.resources
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmEditNota.resources
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmEditServico.resources
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmLog.resources
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmLotes.resources
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmMaster.resources
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmMonitor.resources
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmNotaFiscal.resources
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmProxy.resources
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmServicos.resources
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmSobre.resources
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmSplash.resources
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmVisualizaXML.resources
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmWebService.resources
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.timexRefresh.resources
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\NFeAdminV2.0.csproj.GenerateResource.Cache
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\bin\Debug\NFeAdmin.exe
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\bin\Debug\NFeAdmin.pdb
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\bin\Debug\RDI.NFe2.Business.dll
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\bin\Debug\RDI.NFe2.Business.pdb
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\NFeAdmin.Properties.Resources.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\bin\Debug\RDI.NFe2.Business.dll
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\NFeAdmin.Properties.Resources.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmInutilizaNota.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmNotaInutilizada.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmCertificados.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmDiretorios.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmEditNota.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmEditServico.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmLog.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmLotes.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmMaster.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmMonitor.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmNotaFiscal.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmProxy.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmServicos.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmSobre.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmSplash.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmVisualizaXML.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmWebService.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.timexRefresh.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\NFeAdminV2.0.csproj.GenerateResource.Cache
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\RDI.NFe.Visual.FrmInfNRec.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\bin\Debug\NFeAdmin200.exe.config
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\bin\Debug\NFeAdmin200.exe
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\bin\Debug\NFeAdmin200.pdb
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\NFeAdmin200.exe
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\obj\Debug\NFeAdmin200.pdb
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFeAdmin\bin\Debug\RDI.NFe2.Business.pdb

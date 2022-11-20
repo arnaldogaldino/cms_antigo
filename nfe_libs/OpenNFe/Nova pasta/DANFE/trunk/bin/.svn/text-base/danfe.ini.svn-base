@@ -1,0 +1,12 @@
+[Email]
+NumCopias=1
+Usuario=rodimpact@gmail.com
+Host=smtp.gmail.com
+Senha=lipidios
+TextoFrom=OpenNFe - RDI
+From=rodrigo@rochadigital.com
+CopiaPara=rodrigo@rochadigital.com
+
+Automatico=0
+Port=587
+SSL=1

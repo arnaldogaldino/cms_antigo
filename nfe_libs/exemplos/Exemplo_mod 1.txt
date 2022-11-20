@@ -1,0 +1,28 @@
+﻿10|1,00|00000000000000|10/10/2007|17/10/2007
+20|I||Venda a Consumidor Final|0|20956|10/10/2007 10:00:00|10/10/2007 10:00:00|1|5102|000000000000|000000000000|00000000000000|Casa F|R São Manoel|176|apto 18|Centro|São Paulo|SP|10100000|Brasil|5550723|
+30|Produto 0|Pinga tipo 0|12345678|caixa|1,0000|5,0000|5,00|010|18,00|6,00|10,00
+30|Produto 1|Pinga tipo 1|12345678|caixa|1,0000|5,0000|5,00|010|18,00|6,00|10,00
+30|Produto 2|Pinga tipo 2|12345678|caixa|1,0000|5,0000|5,00|010|18,00|6,00|10,00
+30|Produto 3|Pinga tipo 3|12345678|caixa|1,0000|5,0000|5,00|010|18,00|6,00|10,00
+30|Produto 4|Pinga tipo 4|12345678|caixa|1,0000|5,0000|5,00|010|18,00|6,00|10,00
+40|69,01|1234,56|45,78|123,45|100,10|20,02|10,01|30,00|5,00|1,00|106,13|234,00|6,00|154,00
+50|0|00000000000000|Transportadora Xing Ling|000000000000|Av. da Lentidao, 321|Sao Paulo|SP|ABC1234|SP|123456789012345|litros|Xing Ling|123456789|123,000|154,064
+60|Dados da fatura|Informacoes adicionais de interesse do Fisco|Informacoes complementares de interesse do contribuinte
+20|I||Venda a Consumidor Final|0|20956|10/10/2007 10:00:00|10/10/2007 10:00:00|1|5102|000000000000|000000000000|00000000000000|Casa F|R São Manoel|176|apto 18|Centro|São Paulo|SP|10100000|Brasil|5550723|
+30|Produto 0|Pinga tipo 0|12345678|caixa|1,0000|5,0000|5,00|010|18,00|6,00|10,00
+30|Produto 1|Pinga tipo 1|12345678|caixa|1,0000|5,0000|5,00|010|18,00|6,00|10,00
+30|Produto 2|Pinga tipo 2|12345678|caixa|1,0000|5,0000|5,00|010|18,00|6,00|10,00
+30|Produto 3|Pinga tipo 3|12345678|caixa|1,0000|5,0000|5,00|010|18,00|6,00|10,00
+30|Produto 4|Pinga tipo 4|12345678|caixa|1,0000|5,0000|5,00|010|18,00|6,00|10,00
+40|69,01|1234,56|45,78|123,45|100,10|20,02|10,01|30,00|5,00|1,00|106,13|234,00|6,00|154,00
+50|0|00000000000000|Transportadora Xing Ling|000000000000|Av. da Lentidao, 321|Sao Paulo|SP|ABC1234|SP|123456789012345|litros|Xing Ling|123456789|123,000|154,064
+90|00002|00010|00002|00002|00001
+
+
+CONSIDERAÇÕES SOBRE O ARQUIVO:
+==============================
+
+Este arquivo foi elaborado para simples EXEMPLO do layout indicado no Anexo Único da Portaria CAT 102/07. 
+ATENÇÃO: Este arquivo NÃO DEVE ser utilizado para a transmissão efetiva.
+
+Cabe informar que, neste arquivo, o CNPJ do estabelecimento emitente está zerado, devendo no arquivo real constar tal informação.

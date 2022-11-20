@@ -1,0 +1,9 @@
+D:\projetos\cms\docs\daruma\exemplocsharp\ExemploCSharp\bin\Debug\ExemploCSharp.exe
+D:\projetos\cms\docs\daruma\exemplocsharp\ExemploCSharp\bin\Debug\ExemploCSharp.pdb
+D:\projetos\cms\docs\daruma\exemplocsharp\ExemploCSharp\obj\Debug\ResolveAssemblyReference.cache
+D:\projetos\cms\docs\daruma\exemplocsharp\ExemploCSharp\obj\Debug\ExemploFiscal.FormDialog.resources
+D:\projetos\cms\docs\daruma\exemplocsharp\ExemploCSharp\obj\Debug\ExemploFiscal.FormPrincipal.resources
+D:\projetos\cms\docs\daruma\exemplocsharp\ExemploCSharp\obj\Debug\ResGen.read.1.tlog
+D:\projetos\cms\docs\daruma\exemplocsharp\ExemploCSharp\obj\Debug\ResGen.write.1.tlog
+D:\projetos\cms\docs\daruma\exemplocsharp\ExemploCSharp\obj\Debug\ExemploCSharp.exe
+D:\projetos\cms\docs\daruma\exemplocsharp\ExemploCSharp\obj\Debug\ExemploCSharp.pdb

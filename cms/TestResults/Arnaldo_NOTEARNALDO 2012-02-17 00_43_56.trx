@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="32385e68-be5a-4dd6-84c6-d978d92db84c" name="Arnaldo@NOTEARNALDO 2012-02-17 00:43:56" runUser="NoteArnaldo\Arnaldo" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="4a28c520-7b1c-48c0-99b0-b2ea6becd133">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Arnaldo_NOTEARNALDO 2012-02-17 00_43_56">
+      <DeploymentItem filename="D:\projetos\cms\cms\dll\WeifenLuo.WinFormsUI.Docking.dll" />
+      <DeploymentItem filename="D:\projetos\cms\cms.nfe\bin\Debug\cms.nfe.dll" />
+      <DeploymentItem filename="D:\projetos\cms\cms.Data\bin\Debug\cms.Data.dll" />
+      <DeploymentItem filename="C:\FuturaData\FuturaDataNFE\FuturaDataNFeLibrary.dll" />
+      <DeploymentItem filename="D:\projetos\cms\cms\bin\Debug\cms.exe" />
+      <DeploymentItem filename="D:\projetos\cms\boletonet-72824\Boleto.Net\Boleto.Net\bin\Release\Boleto.Net.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-02-17T00:43:56.3527206-02:00" queuing="2012-02-17T00:43:57.8208046-02:00" start="2012-02-17T00:43:58.2158272-02:00" finish="2012-02-17T00:44:04.3391774-02:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="12" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="11" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="NOTEARNALDO" outcome="Error" timestamp="2012-02-17T00:44:04.2941749-02:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="DesserializarXML" storage="d:\projetos\cms\cms\cms.unittest\bin\debug\cms.unittest.dll" id="6e018897-749d-50ee-c57f-0b7f820f7a1e">
+      <Execution id="596ad801-283f-48c7-a9e8-dd22a5d47cce" />
+      <TestMethod codeBase="D:/projetos/cms/cms/cms.unitTest/bin/Debug/cms.unitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="cms.unitTest.cnFiscalNFeTest, cms.unitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DesserializarXML" />
+    </UnitTest>
+    <UnitTest name="SelecionarCertificado" storage="d:\projetos\cms\cms.nfe.unittest\bin\debug\cms.nfe.unittest.dll" id="c56f9b41-ae03-ae08-bad9-1134a3c07a32">
+      <Execution id="1c04317c-2155-49b6-b28a-be9045b6f356" />
+      <TestMethod codeBase="D:/projetos/cms/cms.NFe.unitTest/bin/Debug/cms.NFe.unitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="cms.NFe.unitTest.AssinaturaArquivoTest, cms.NFe.unitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SelecionarCertificado" />
+    </UnitTest>
+    <UnitTest name="AssinaturaArquivoConstructorTest" storage="d:\projetos\cms\cms.nfe.unittest\bin\debug\cms.nfe.unittest.dll" id="ec492cde-5a1a-7765-55f5-99aea2544523">
+      <Execution id="0cce4a69-e730-45f4-907e-26d845769d6c" />
+      <TestMethod codeBase="D:/projetos/cms/cms.NFe.unitTest/bin/Debug/cms.NFe.unitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="cms.NFe.unitTest.AssinaturaArquivoTest, cms.NFe.unitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AssinaturaArquivoConstructorTest" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="d:\projetos\cms\cms.nfe.unittest\bin\debug\cms.nfe.unittest.dll" id="b86d0314-8e77-0bdf-79fa-f39b34113e1c">
+      <Execution id="fe5198d6-06eb-43cb-8a4a-6bf31ca66412" />
+      <TestMethod codeBase="D:/projetos/cms/cms.NFe.unitTest/bin/Debug/cms.NFe.unitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="cms.NFe.unitTest.UnitTest1, cms.NFe.unitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="InitializeTest" storage="d:\projetos\cms\cms\cms.unittest\bin\debug\cms.unittest.dll" id="ae315531-ebd3-22f6-6450-68dd1cc2f7ef">
+      <Execution id="f33d2276-d00a-4e2c-a3a8-8b86373afece" />
+      <TestMethod codeBase="D:/projetos/cms/cms/cms.unitTest/bin/Debug/cms.unitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="cms.unitTest.cnFiscalNFeTest, cms.unitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InitializeTest" />
+    </UnitTest>
+    <UnitTest name="VerificarArquivoAssinado" storage="d:\projetos\cms\cms.nfe.unittest\bin\debug\cms.nfe.unittest.dll" id="4c68e631-3e57-cf2e-4755-47837f4b6939">
+      <Execution id="46a1ff9f-5365-4b40-9397-e97a8ecaa158" />
+      <TestMethod codeBase="D:/projetos/cms/cms.NFe.unitTest/bin/Debug/cms.NFe.unitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="cms.NFe.unitTest.AssinaturaArquivoTest, cms.NFe.unitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="VerificarArquivoAssinado" />
+    </UnitTest>
+    <UnitTest name="NFeConstructorTest" storage="d:\projetos\cms\cms.nfe.unittest\bin\debug\cms.nfe.unittest.dll" id="828d9022-6184-b276-09cd-1cd25c6dd097">
+      <Execution id="736ab877-fe71-4a3e-b457-36689bced2b4" />
+      <TestMethod codeBase="D:/projetos/cms/cms.NFe.unitTest/bin/Debug/cms.NFe.unitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="cms.NFe.unitTest.NFeTest, cms.NFe.unitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NFeConstructorTest" />
+    </UnitTest>
+    <UnitTest name="GetArquivo" storage="d:\projetos\cms\cms.nfe.unittest\bin\debug\cms.nfe.unittest.dll" id="f470e727-9989-8e86-026f-69575c65ed3f">
+      <Execution id="b478f217-52cf-4f94-a767-82f5738ec524" />
+      <TestMethod codeBase="D:/projetos/cms/cms.NFe.unitTest/bin/Debug/cms.NFe.unitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="cms.NFe.unitTest.AssinaturaArquivoTest, cms.NFe.unitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetArquivo" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="d:\projetos\cms\cms\cms.unittest\bin\debug\cms.unittest.dll" id="79ecd91e-d901-6322-e604-cb46d15038cc">
+      <Execution id="05bd9e00-bb19-4092-b1d0-26d89ca2a2e8" />
+      <TestMethod codeBase="D:/projetos/cms/cms/cms.unitTest/bin/Debug/cms.unitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="cms.unitTest.UnitTest1, cms.unitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="AssinarArquivo" storage="d:\projetos\cms\cms.nfe.unittest\bin\debug\cms.nfe.unittest.dll" id="fdbbf911-dddd-2d80-d7c2-7f636cc6303a">
+      <Execution id="a3e58bca-8078-4314-9aaa-50318cb89ebb" />
+      <TestMethod codeBase="D:/projetos/cms/cms.NFe.unitTest/bin/Debug/cms.NFe.unitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="cms.NFe.unitTest.AssinaturaArquivoTest, cms.NFe.unitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AssinarArquivo" />
+    </UnitTest>
+    <UnitTest name="GravarArquivo" storage="d:\projetos\cms\cms.nfe.unittest\bin\debug\cms.nfe.unittest.dll" id="42342ade-fb30-3b75-a1b0-61540ad758aa">
+      <Execution id="eef21cd4-4498-43ce-94ca-eb7768ece88e" />
+      <TestMethod codeBase="D:/projetos/cms/cms.NFe.unitTest/bin/Debug/cms.NFe.unitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="cms.NFe.unitTest.AssinaturaArquivoTest, cms.NFe.unitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GravarArquivo" />
+    </UnitTest>
+    <UnitTest name="SerializarXMLTest" storage="d:\projetos\cms\cms\cms.unittest\bin\debug\cms.unittest.dll" id="4d156e33-c443-9bf1-8e72-2bf857313ffe">
+      <Execution id="a17085b0-0577-43ec-89d0-ed268b519164" />
+      <TestMethod codeBase="D:/projetos/cms/cms/cms.unitTest/bin/Debug/cms.unitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="cms.unitTest.cnFiscalNFeTest, cms.unitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SerializarXMLTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="42342ade-fb30-3b75-a1b0-61540ad758aa" executionId="eef21cd4-4498-43ce-94ca-eb7768ece88e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4c68e631-3e57-cf2e-4755-47837f4b6939" executionId="46a1ff9f-5365-4b40-9397-e97a8ecaa158" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4d156e33-c443-9bf1-8e72-2bf857313ffe" executionId="a17085b0-0577-43ec-89d0-ed268b519164" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6e018897-749d-50ee-c57f-0b7f820f7a1e" executionId="596ad801-283f-48c7-a9e8-dd22a5d47cce" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="79ecd91e-d901-6322-e604-cb46d15038cc" executionId="05bd9e00-bb19-4092-b1d0-26d89ca2a2e8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="828d9022-6184-b276-09cd-1cd25c6dd097" executionId="736ab877-fe71-4a3e-b457-36689bced2b4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ae315531-ebd3-22f6-6450-68dd1cc2f7ef" executionId="f33d2276-d00a-4e2c-a3a8-8b86373afece" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b86d0314-8e77-0bdf-79fa-f39b34113e1c" executionId="fe5198d6-06eb-43cb-8a4a-6bf31ca66412" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c56f9b41-ae03-ae08-bad9-1134a3c07a32" executionId="1c04317c-2155-49b6-b28a-be9045b6f356" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ec492cde-5a1a-7765-55f5-99aea2544523" executionId="0cce4a69-e730-45f4-907e-26d845769d6c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f470e727-9989-8e86-026f-69575c65ed3f" executionId="b478f217-52cf-4f94-a767-82f5738ec524" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fdbbf911-dddd-2d80-d7c2-7f636cc6303a" executionId="a3e58bca-8078-4314-9aaa-50318cb89ebb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="eef21cd4-4498-43ce-94ca-eb7768ece88e" testId="42342ade-fb30-3b75-a1b0-61540ad758aa" testName="GravarArquivo" computerName="NOTEARNALDO" duration="00:00:05.8573350" startTime="2012-02-17T00:43:58.4418401-02:00" endTime="2012-02-17T00:44:04.2991751-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eef21cd4-4498-43ce-94ca-eb7768ece88e">
+    </UnitTestResult>
+    <UnitTestResult executionId="46a1ff9f-5365-4b40-9397-e97a8ecaa158" testId="4c68e631-3e57-cf2e-4755-47837f4b6939" testName="VerificarArquivoAssinado" computerName="NOTEARNALDO" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="46a1ff9f-5365-4b40-9397-e97a8ecaa158">
+    </UnitTestResult>
+    <UnitTestResult executionId="a17085b0-0577-43ec-89d0-ed268b519164" testId="4d156e33-c443-9bf1-8e72-2bf857313ffe" testName="SerializarXMLTest" computerName="NOTEARNALDO" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a17085b0-0577-43ec-89d0-ed268b519164">
+    </UnitTestResult>
+    <UnitTestResult executionId="596ad801-283f-48c7-a9e8-dd22a5d47cce" testId="6e018897-749d-50ee-c57f-0b7f820f7a1e" testName="DesserializarXML" computerName="NOTEARNALDO" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="596ad801-283f-48c7-a9e8-dd22a5d47cce">
+    </UnitTestResult>
+    <UnitTestResult executionId="05bd9e00-bb19-4092-b1d0-26d89ca2a2e8" testId="79ecd91e-d901-6322-e604-cb46d15038cc" testName="TestMethod1" computerName="NOTEARNALDO" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="05bd9e00-bb19-4092-b1d0-26d89ca2a2e8">
+    </UnitTestResult>
+    <UnitTestResult executionId="736ab877-fe71-4a3e-b457-36689bced2b4" testId="828d9022-6184-b276-09cd-1cd25c6dd097" testName="NFeConstructorTest" computerName="NOTEARNALDO" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="736ab877-fe71-4a3e-b457-36689bced2b4">
+    </UnitTestResult>
+    <UnitTestResult executionId="f33d2276-d00a-4e2c-a3a8-8b86373afece" testId="ae315531-ebd3-22f6-6450-68dd1cc2f7ef" testName="InitializeTest" computerName="NOTEARNALDO" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f33d2276-d00a-4e2c-a3a8-8b86373afece">
+    </UnitTestResult>
+    <UnitTestResult executionId="fe5198d6-06eb-43cb-8a4a-6bf31ca66412" testId="b86d0314-8e77-0bdf-79fa-f39b34113e1c" testName="TestMethod1" computerName="NOTEARNALDO" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fe5198d6-06eb-43cb-8a4a-6bf31ca66412">
+    </UnitTestResult>
+    <UnitTestResult executionId="1c04317c-2155-49b6-b28a-be9045b6f356" testId="c56f9b41-ae03-ae08-bad9-1134a3c07a32" testName="SelecionarCertificado" computerName="NOTEARNALDO" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1c04317c-2155-49b6-b28a-be9045b6f356">
+    </UnitTestResult>
+    <UnitTestResult executionId="0cce4a69-e730-45f4-907e-26d845769d6c" testId="ec492cde-5a1a-7765-55f5-99aea2544523" testName="AssinaturaArquivoConstructorTest" computerName="NOTEARNALDO" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0cce4a69-e730-45f4-907e-26d845769d6c">
+    </UnitTestResult>
+    <UnitTestResult executionId="b478f217-52cf-4f94-a767-82f5738ec524" testId="f470e727-9989-8e86-026f-69575c65ed3f" testName="GetArquivo" computerName="NOTEARNALDO" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b478f217-52cf-4f94-a767-82f5738ec524">
+    </UnitTestResult>
+    <UnitTestResult executionId="a3e58bca-8078-4314-9aaa-50318cb89ebb" testId="fdbbf911-dddd-2d80-d7c2-7f636cc6303a" testName="AssinarArquivo" computerName="NOTEARNALDO" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a3e58bca-8078-4314-9aaa-50318cb89ebb">
+    </UnitTestResult>
+  </Results>
+</TestRun>

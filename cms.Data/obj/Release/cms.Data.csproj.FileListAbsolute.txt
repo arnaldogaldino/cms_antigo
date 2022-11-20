@@ -1,0 +1,6 @@
+D:\projetos\cms\cms.Data\bin\Release\cms.Data.dll.config
+D:\projetos\cms\cms.Data\bin\Release\cms.Data.dll
+D:\projetos\cms\cms.Data\bin\Release\cms.Data.pdb
+D:\projetos\cms\cms.Data\obj\Release\ResolveAssemblyReference.cache
+D:\projetos\cms\cms.Data\obj\Release\cms.Data.dll
+D:\projetos\cms\cms.Data\obj\Release\cms.Data.pdb

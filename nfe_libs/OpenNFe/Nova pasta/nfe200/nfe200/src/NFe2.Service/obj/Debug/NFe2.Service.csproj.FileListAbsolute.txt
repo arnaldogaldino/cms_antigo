@@ -1,0 +1,28 @@
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFe2.Service\bin\Debug\NFSe.Service.exe
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFe2.Service\bin\Debug\NFSe.Service.pdb
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFe2.Service\bin\Debug\RDI.Lince.dll
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFe2.Service\bin\Debug\RDI.NFe2.Business.pdb
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFe2.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFe2.Service\obj\Debug\NFSe.Service.Engine.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFe2.Service\obj\Debug\NFSe.Service.EngineNFSeInstaller.resources
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFe2.Service\obj\Debug\NFe2.Service.csproj.GenerateResource.Cache
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFe2.Service\obj\Debug\NFSe.Service.exe
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFe2.Service\obj\Debug\NFSe.Service.pdb
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\bin\Debug\NFSe.Service.exe
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\bin\Debug\NFSe.Service.pdb
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\bin\Debug\RDI.NFe2.Business.pdb
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\obj\Debug\NFSe.Service.Engine.resources
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\obj\Debug\NFSe.Service.EngineNFSeInstaller.resources
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\obj\Debug\NFe2.Service.csproj.GenerateResource.Cache
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\obj\Debug\NFSe.Service.exe
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\obj\Debug\NFSe.Service.pdb
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\bin\Debug\NFSe.Service.exe
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\bin\Debug\NFSe.Service.pdb
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\obj\Debug\NFSe.Service.Engine.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\obj\Debug\NFSe.Service.EngineNFSeInstaller.resources
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\obj\Debug\NFe2.Service.csproj.GenerateResource.Cache
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\obj\Debug\NFSe.Service.exe
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\obj\Debug\NFSe.Service.pdb
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\bin\Debug\RDI.NFe2.Business.pdb

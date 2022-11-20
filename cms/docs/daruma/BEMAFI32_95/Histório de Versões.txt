@@ -1,0 +1,192 @@
+*************************************************************************************
+=====================================================================================
+  Este arquivo contém informações sobre as implementações/correções da BEMAFI32.DLL
+=====================================================================================
+*************************************************************************************
+
+				*** versão 5.3.0.0 ***
+
+Arquivo BemaFI32.ini
+--------------------
+
+O arquivo de configuração da DLL não precisa estar no diretório de sistema do Windows
+(Windows\System ou Windows\System32). Ele pode ser distribuído, juntamente com a dll, 
+no mesmo diretório da aplicação.
+
+OBS: Caso o arquivo BemaFI32.ini não esteja, juntamente com a dll, o default de procura 
+será o diretório de sistema do Windows.
+
+Pacote JAVA atualizado
+----------------------
+
+Foram implementadas melhorias na classe JAVA de acesso às impressoras fiscais Bematech, 
+através da BemaFI32.dll. Agora, existe um pacote chamado Bematech.jar, o qual contém 
+todas as classes utilizadas para realizar as operações com a impressora. Basta adicionar 
+no projeto Java o arquivo Bematech.jar e a seguinte linha de código à classe do projeto: 
+
+import bemajava.*;
+
+Log Diário
+----------
+
+Foi criada a chave "LogDiario" no arquivo BemaFI32.ini que possibilita a geração do 
+arquivo "BemaFI32.log" diariamente, ou seja, a dll irá criar um arquivo 
+BemaFI32-AAAAMMDD.log com as operações realizadas entre sua aplicação -> dll -> impressora, 
+permitindo uma maior depuração de possíveis erros que possam ocorrer. Serão mantidos apenas 
+os 7 últimos logs gerados, sendo os anteriores apagados - sempre logs semanais. 
+
+OBS: Essa configuração só terá efeito se a chave Log também estiver habilitada (Log=1). 
+
+CrLfVinculado e CrLfGerencial
+-----------------------------
+
+Criamos as chaves "CrLfVinculado" e "CrLfVinculado" no arquivo BemaFI32.ini que permite 
+ativar ou desativar o envio dos caracteres LF+CR pela dll.
+
+Se sua aplicação já envia estes caracteres, juntamente com as linhas do texto para o cupom 
+não fiscal vincula ou relatório gerencial, estas chaves podem ficar desativadas no arquivo 
+BemaFI32.ini (CrLfVinculado=0 e CrLfVinculado=0). Mas, se você deseja que a dll controle o 
+envio destes caracteres automaticamente, estas chaves devem estar ativadas.
+
+OBS: O envio destes caracteres para salto de linha, terá efeitos nas funções Bematech_FI_UsaComprovanteNaoFiscalVinculado e Bematech_FI_RelatorioGerencial.
+
+TimeOutGerencial
+----------------
+
+É possível controlar o timeout de retorno da dll, quando é realizada a impressão do relatório 
+gerencial nas impressoras fiscais modelo MP-20 FI II e MP-40 FI II. Estes modelos imprimem 
+uma Leitura X (exigido por lei) antes do inicio da impressão do relatório gerencial. O valor 
+default é 40 segundos, podendo ser configurado até 120 segundos.
+
+Bematech_FI_EfetuaFormaPagamentoIndiceDescricaoForma
+----------------------------------------------------
+
+Função implementada para efetuar a forma de pagamento, através de seu índice, permitindo o 
+envio de um texto adicional.
+
+Exemplo:
+
+iRet = Bematech_FI_EfetuaFormaPagamentoIndiceDescricaoForma( "02", "100,00", "Cheque com 
+vencimento em 30/10/06")
+
+Bematech_FI_AtivaDesativaCancelamentoCupom2HorasMFD
+---------------------------------------------------
+
+Função implementada para ativar ou desativar o cancelamento do cupom fiscal que é realizado 
+pela impressora, automaticamente quando é impressa a redução Z, às 02:00 horas.
+
+OBS: Se esta opção for desativada, a impressora não cancelará o cupom fiscal que se encontra 
+aberto, quando a mesma for emitir a redução Z às 02:00 horas (caso esteja habilitada para 
+emitir a redução Z automaticamente), permitindo que a aplicação encerre o cupom para 
+posteriormente emitir a redução Z.
+
+Esta função está disponível para a impressora fiscal térmica MP-2000 TH FI versão 01.03.03 e 
+superior, ou MP-2100 TH FI. 
+
+iRet = Bematech_FI_AtivaDesativaCancelamentoCupom2HorasMFD(0)
+
+Parâmetro 1 ativa o cancelamento e 0 desativa.
+
+Bematech_FI_VerificaCancelamentoCupom2HorasMFD
+----------------------------------------------
+
+Função implementada para verificar se o flag de cancelamento está habilitado ou não.
+
+cFlag = " " 
+iRet = Bematech_FI_VerificaCancelamentoCupom2HorasMFD(cFlag)
+
+Se a variável cFlag for igual a "1", cancelamento habilitado. Se for igual a "0" cancelamento 
+desabilitado.
+
+Esta função está disponível para a impressora fiscal térmica MP-2000 TH FI versão 01.03.03 e 
+superior, ou MP-2100 TH FI. 
+
+Bematech_FI_NumeroSerieCriptografado
+------------------------------------
+
+Função implementada para retornar o número de série da impressora fiscal, já criptografado.
+
+OBS: Para os modelos MP-25 FI, MP-50 FI, MP-2000 TH FI, MP-2100 TH FI e MP-6000 TH FI, a chave 
+"Impressora" deve estar igual a 1 (Impressora=1) no arquivo de configuração BemaFI32.ini para 
+que o número de série retornado seja de 20 caracteres para a criptografia. Caso esta chave 
+esteja igual a 0 (Impressora=0), serão retornados apenas 15 caracteres para a criptografia.
+
+Exemplo:
+
+' para as impressoras MP-20 FI II / MP-40 FI II 
+' (chave Impressora=0)
+NumeroSerie = Space(15) 
+iRet = Bematech_FI_NumeroSerieCriptografado(NumeroSerie)
+
+ou
+
+' para as impressoras MP-25 FI / MP-50 FI / MP-2000 TH FI / MP-2100 TH FI / MP-6000 TH FI 
+' (chave Impressora=1) 
+NumeroSerie = Space(20) 
+iRet = Bematech_FI_NumeroSerieCriptografado(NumeroSerie) 
+
+Bematech_FI_NumeroSerieDescriptografado
+---------------------------------------
+
+Função implementada para descriptografar o número de série, criptografado a partir da função
+Bematech_FI_NumeroSerieCriptografado.
+
+Exemplo:
+
+NumeroSerieDescrip = Space(15) 
+iRet = Bematech_FI_NumeroSerieDescriptografado(NumeroSerie, NumeroSerieDescrip)
+
+ou
+
+NumeroSerieDescrip = Space(20) 
+iRet = Bematech_FI_NumeroSerieDescriptografado(NumeroSerie, NumeroSerieDescrip)
+
+Onde, a variável NumeroSerie deve conter o número de série criptografado pela função Bematech_FI_NumeroSerieCriptografado.
+
+
+				*** versão 5.3.1.0 ***
+
+- Versão gerada após correção do erro de comunicação durante a leitura das formas de pagamento 
+  usando o emulado.
+
+
+				*** versão 5.3.4.0 ***
+
+- Alterada a variável de envio de comandos para o Bematech Monitor de global para local.
+
+
+				*** versão 5.3.5.0 ***
+
+- Alterada a função Bematech_FI_VendaBruta para calcular a venda bruta lendo as informações 
+  dos totalizadores parciais, quando os dados da ultima redução z estiverem zerados.
+
+- Compatibilizada a função Bematech_FI_EfetuaFormaPagamentoImpAntiga e Bematech_FI_ReducaoZImpAntiga 
+  com as impressoras convenio 85.
+
+
+				*** versão 5.3.6.0 ***
+
+- Implementado o fechamento e abertura da porta de comunicação quando ocorre erro ao enviar o 
+  comando para a impressora.
+
+- Melhorado o tratamento de timeout da redução z. Se for impressora Térmica desconsidera a 
+  configuração do ini (TimeOutZ), fica aguardando enquanto a impressora estiver retornando busy.
+
+
+				*** versão 5.3.7.0 ***
+
+- Implementado o suporte a MP-2100 TH FI nas funções Bematech_FI_RelatorioSintegraMFD e   Bematech_FI_GeraRelatorioSintegraMFD.
+
+
+				*** versão 5.3.8.0 ***
+
+- Implementada a leitura múltipla de dados para melhorar o desempenho na utilização do Windows 
+  Terminal Service.
+
+
+				*** versão 5.4.0.0 ***
+
+- Incluido suporte a impressora MP-3000 TH FI.
+- Atualizada a função Bematech_FI_DadosSintegraMFD para suportar novo layout da leitura da 
+  memória fiscal.
+- Atualizada a função Bematech_FI_ModeloImpressora para suportar a MP-3000 TH FI.

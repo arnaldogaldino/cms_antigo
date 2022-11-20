@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0df135b4-5709-46e5-90e2-dc6143afb244" name="Arnaldo@NOTEARNALDO 2012-02-22 16:59:59" runUser="NoteArnaldo\Arnaldo" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="4a28c520-7b1c-48c0-99b0-b2ea6becd133">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Arnaldo_NOTEARNALDO 2012-02-22 16_59_59">
+      <DeploymentItem filename="D:\projetos\cms\cms.nfe\bin\Debug\cms.nfe.dll" />
+      <DeploymentItem filename="C:\FuturaData\FuturaDataNFE\FuturaDataNFeLibrary.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-02-22T16:59:59.3636125-02:00" queuing="2012-02-22T17:00:07.4170732-02:00" start="2012-02-22T17:00:07.6950891-02:00" finish="2012-02-22T17:00:37.1017710-02:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="NOTEARNALDO" outcome="Error" timestamp="2012-02-22T17:00:37.0927705-02:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="SelecionarCertificado" storage="d:\projetos\cms\cms.nfe.unittest\bin\debug\cms.nfe.unittest.dll" id="c56f9b41-ae03-ae08-bad9-1134a3c07a32">
+      <Execution id="cddff220-1d88-4c9b-bc29-d1a716086df9" />
+      <TestMethod codeBase="D:/projetos/cms/cms.NFe.unitTest/bin/Debug/cms.NFe.unitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="cms.NFe.unitTest.AssinaturaArquivoTest, cms.NFe.unitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SelecionarCertificado" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="c56f9b41-ae03-ae08-bad9-1134a3c07a32" executionId="cddff220-1d88-4c9b-bc29-d1a716086df9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="cddff220-1d88-4c9b-bc29-d1a716086df9" testId="c56f9b41-ae03-ae08-bad9-1134a3c07a32" testName="SelecionarCertificado" computerName="NOTEARNALDO" duration="00:00:29.1266660" startTime="2012-02-22T17:00:07.9741050-02:00" endTime="2012-02-22T17:00:37.1007710-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cddff220-1d88-4c9b-bc29-d1a716086df9">
+    </UnitTestResult>
+  </Results>
+</TestRun>

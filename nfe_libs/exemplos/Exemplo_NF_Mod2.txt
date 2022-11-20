@@ -1,0 +1,30 @@
+10|1.00|00000000000000|15/10/2007|19/10/2007
+20|1||4103|15/10/2007|15/10/2007|00000000191|Cliente CPF valido|Rua X|01|Apto 182|Centro|Sao Paulo|SP|10100000|1155555555|28,50|3,50|0,00|0,00|1,00|Desp Aces de Montagem|26,00|Obrigado|Contem Mercadorias Sujeitas a ST|1|Rua da Entrega|15||Itaim|Sao Paulo|SP|2|26,00||
+21|1|A34253|1|Produto para Revenda|KG|3,000|4,50|13,50
+21|2|A14523|3|Mercadoria ST|PC|10,000|0,50|5,00
+21|3|B84352|1|Outro Produto|KG|5,000|2,00|10,00
+20|1||4104|18/10/2007|19/10/2007|00000000192|Cliente CPF invalido|||||||||100,00|0,00|0,00|0,00|0,00||100,00|Info Ctb|Info fisco|2|||||||1|100,00|110,00|2
+21|1|A58161|1|Produto para Revenda|KG|2,500|14,00|35,00
+21|2|A86589|2|Produto de Fabricacao Propria|PC|10,000|6,50|65,00
+22|55,00|01/11/2007
+22|55,00|01/12/2007
+20|1||4105|19/10/2007|19/10/2007|||||||||||10,00|0,00|0,00|0,00|0,00||10,00|||2|||||||2|10,00||
+21|1||2|Item|UN|1,000|10,00|10,00
+90|3|6|2|136,00
+
+CONSIDERAÇÕES SOBRE O ARQUIVO:
+==============================
+
+Este arquivo foi elaborado para simples EXEMPLO do layout indicado no Anexo II da Portaria CAT 85/07, alterada pela Portaria CAT 98/07. 
+ATENÇÃO: Este arquivo NÃO DEVE ser utilizado para a transmissão efetiva.
+
+Cabe informar que, neste arquivo, o CNPJ do estabelecimento emitente está zerado, devendo no arquivo real constar tal informação.
+
+Esse arquivo possui 3 NFs:
+A primeira com o CPF do destinatário informado corretamente e com entrega em domicílio
+A segunda com o CPF informado inconsistente e com pagamento a prazo (2 parcelas)
+A terceira sem identificação do destinatário
+
+O envio do arquivo gerará dois alertas:
+1: CPF inválido na segunda NF
+2: Desconsideração das linhas abaixo do rodapé (da linha 14 em diante)

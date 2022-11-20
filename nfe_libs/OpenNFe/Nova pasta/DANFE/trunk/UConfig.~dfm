@@ -1,0 +1,242 @@
+object TConfig: TTConfig
+  Left = 355
+  Top = 152
+  BorderStyle = bsDialog
+  Caption = 'Configura'#231#245'es'
+  ClientHeight = 430
+  ClientWidth = 292
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poOwnerFormCenter
+  OnCreate = FormCreate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object GroupBox2: TGroupBox
+    Left = 8
+    Top = 111
+    Width = 273
+    Height = 170
+    Caption = 'SMTP'
+    TabOrder = 1
+    object Label2: TLabel
+      Left = 16
+      Top = 29
+      Width = 42
+      Height = 13
+      Caption = 'Usu'#225'rio: '
+    end
+    object Label3: TLabel
+      Left = 17
+      Top = 51
+      Width = 37
+      Height = 13
+      Caption = 'Senha: '
+    end
+    object Label4: TLabel
+      Left = 16
+      Top = 96
+      Width = 28
+      Height = 13
+      Caption = 'Host: '
+    end
+    object Label8: TLabel
+      Left = 16
+      Top = 73
+      Width = 44
+      Height = 13
+      Caption = 'Confirme:'
+    end
+    object Label9: TLabel
+      Left = 16
+      Top = 117
+      Width = 28
+      Height = 13
+      Caption = 'Porta:'
+    end
+    object edtSmtpUsuario: TEdit
+      Left = 64
+      Top = 19
+      Width = 193
+      Height = 19
+      TabOrder = 0
+    end
+    object edtSmtpSenha: TEdit
+      Left = 64
+      Top = 44
+      Width = 193
+      Height = 19
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -11
+      Font.Name = 'Webdings'
+      Font.Style = []
+      ParentFont = False
+      PasswordChar = '='
+      TabOrder = 1
+    end
+    object edtSmtpHost: TEdit
+      Left = 64
+      Top = 91
+      Width = 193
+      Height = 19
+      TabOrder = 3
+    end
+    object edtConfSenha: TEdit
+      Left = 64
+      Top = 67
+      Width = 193
+      Height = 20
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -11
+      Font.Name = 'Webdings'
+      Font.Style = []
+      ParentFont = False
+      PasswordChar = '='
+      TabOrder = 2
+    end
+    object edtSmtpPort: TEdit
+      Left = 64
+      Top = 114
+      Width = 193
+      Height = 19
+      TabOrder = 4
+    end
+    object chkSSL: TCheckBox
+      Left = 17
+      Top = 144
+      Width = 176
+      Height = 17
+      Caption = 'Utilizar Autentica'#231#227'o SSL'
+      TabOrder = 5
+    end
+  end
+  object GroupBox3: TGroupBox
+    Left = 8
+    Top = 289
+    Width = 273
+    Height = 105
+    Caption = 'Remetente'
+    TabOrder = 2
+    object Label5: TLabel
+      Left = 8
+      Top = 32
+      Width = 31
+      Height = 13
+      Caption = 'Nome:'
+    end
+    object Label6: TLabel
+      Left = 8
+      Top = 56
+      Width = 31
+      Height = 13
+      Caption = 'E-mail:'
+    end
+    object Label7: TLabel
+      Left = 8
+      Top = 80
+      Width = 54
+      Height = 13
+      Caption = 'C'#243'pia para:'
+    end
+    object edtRemetenteNome: TEdit
+      Left = 72
+      Top = 24
+      Width = 185
+      Height = 21
+      TabOrder = 0
+    end
+    object edtRemetenteEmail: TEdit
+      Left = 72
+      Top = 48
+      Width = 185
+      Height = 21
+      TabOrder = 1
+    end
+    object edtCopiaPara: TEdit
+      Left = 72
+      Top = 72
+      Width = 185
+      Height = 21
+      TabOrder = 2
+    end
+  end
+  object btnSalvar: TButton
+    Left = 125
+    Top = 398
+    Width = 75
+    Height = 25
+    Caption = '&Salvar'
+    TabOrder = 3
+    OnClick = btnSalvarClick
+  end
+  object GroupBox1: TGroupBox
+    Left = 8
+    Top = 8
+    Width = 273
+    Height = 49
+    Caption = 'Impress'#227'o'
+    TabOrder = 0
+    object Label1: TLabel
+      Left = 8
+      Top = 24
+      Width = 80
+      Height = 13
+      Caption = 'N'#250'mero de vias: '
+    end
+    object cbVias: TComboBox
+      Left = 106
+      Top = 22
+      Width = 49
+      Height = 19
+      Style = csOwnerDrawFixed
+      ItemHeight = 13
+      ItemIndex = 0
+      TabOrder = 0
+      Text = '1'
+      Items.Strings = (
+        '1'
+        '2'
+        '3')
+    end
+  end
+  object btnTestarEmail: TButton
+    Left = 8
+    Top = 398
+    Width = 75
+    Height = 25
+    Caption = '&Testar e-mail'
+    TabOrder = 4
+    OnClick = btnTestarEmailClick
+  end
+  object Button1: TButton
+    Left = 205
+    Top = 398
+    Width = 75
+    Height = 25
+    Caption = '&Cancelar'
+    TabOrder = 5
+    OnClick = Button1Click
+  end
+  object GroupBox4: TGroupBox
+    Left = 8
+    Top = 60
+    Width = 273
+    Height = 45
+    Caption = 'Envio autom'#225'tico de e-mail'
+    TabOrder = 6
+    object chkEnvioEmail: TCheckBox
+      Left = 17
+      Top = 20
+      Width = 97
+      Height = 17
+      Caption = 'Habilitado'
+      TabOrder = 0
+    end
+  end
+end

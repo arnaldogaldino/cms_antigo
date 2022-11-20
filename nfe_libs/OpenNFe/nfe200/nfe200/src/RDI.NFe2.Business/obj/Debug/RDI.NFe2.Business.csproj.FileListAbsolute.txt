@@ -1,0 +1,33 @@
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\RDI.NFe2.Business\RDI.NFe2.Business\RDI.NFe2.Business\bin\Debug\RDI.NFe2.Business.dll
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\RDI.NFe2.Business\RDI.NFe2.Business\RDI.NFe2.Business\bin\Debug\RDI.NFe2.Business.pdb
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\RDI.NFe2.Business\RDI.NFe2.Business\RDI.NFe2.Business\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\RDI.NFe2.Business\RDI.NFe2.Business\RDI.NFe2.Business\obj\Debug\RDI.NFe2.Business.dll
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\RDI.NFe2.Business\RDI.NFe2.Business\RDI.NFe2.Business\obj\Debug\RDI.NFe2.Business.pdb
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\RDI.NFe2.Business\bin\Debug\RDI.NFe2.Business.dll.config
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\RDI.NFe2.Business\bin\Debug\RDI.NFe2.Business.dll
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\RDI.NFe2.Business\bin\Debug\RDI.NFe2.Business.pdb
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\RDI.NFe2.Business\bin\Debug\RDI.Lince.dll
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFe2.Service\bin\Debug\RDI.NFe2.Business.dll.config
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFe2.Service\bin\Debug\RDI.NFe2.Business.dll
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\NFe2.Service\bin\Debug\RDI.NFe2.Business.pdb
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\RDI.NFe2.Business\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\RDI.NFe2.Business\obj\Debug\RDI.NFe2.Business.dll
+C:\Users\KALEL\Documents\RDI\Projetos Open\NFe2.0\RDI.NFe2.Business\obj\Debug\RDI.NFe2.Business.pdb
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\bin\Debug\RDI.NFe2.Business.dll.config
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\bin\Debug\RDI.NFe2.Business.dll
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\bin\Debug\RDI.NFe2.Business.pdb
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\RDI.NFe2.Business\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\RDI.NFe2.Business\obj\Debug\RDI.NFe2.Business.dll
+C:\Users\KALEL\Documents\RDI\tortoise\Produtos Open\OpenNFe\trunk\RDI.NFe2.Business\obj\Debug\RDI.NFe2.Business.pdb
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\bin\Debug\RDI.NFe2.Business.dll.config
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\bin\Debug\RDI.NFe2.Business.dll
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\NFe2.Service\bin\Debug\RDI.NFe2.Business.pdb
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\RDI.NFe2.Business\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\RDI.NFe2.Business\obj\Debug\RDI.NFe2.Business.dll
+C:\Documents and Settings\rodrigo\Meus documentos\tortoise\Produtos Open\OpenNFe\trunk\RDI.NFe2.Business\obj\Debug\RDI.NFe2.Business.pdb
+D:\projetos\cms\nfe_libs\OpenNFe\nfe200\nfe200\src\RDI.NFe2.Business\obj\Debug\ResolveAssemblyReference.cache
+D:\projetos\cms\nfe_libs\OpenNFe\nfe200\nfe200\src\RDI.NFe2.Business\obj\Debug\RDI.NFe2.Business.dll
+D:\projetos\cms\nfe_libs\OpenNFe\nfe200\nfe200\src\RDI.NFe2.Business\obj\Debug\RDI.NFe2.Business.pdb
+D:\projetos\cms\nfe_libs\OpenNFe\nfe200\nfe200\src\NFe2.Service\bin\Debug\RDI.NFe2.Business.dll.config
+D:\projetos\cms\nfe_libs\OpenNFe\nfe200\nfe200\src\NFe2.Service\bin\Debug\RDI.NFe2.Business.dll
+D:\projetos\cms\nfe_libs\OpenNFe\nfe200\nfe200\src\NFe2.Service\bin\Debug\RDI.NFe2.Business.pdb

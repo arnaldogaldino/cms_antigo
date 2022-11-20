@@ -1,0 +1,14 @@
+22/3/2010 16:59:54: Access violation at address 00526945 in module 'DANFE.exe'. Read of address 00B1E9E4
+----------------------------------------------------------------------
+22/3/2010 17:01:38: mail server temporarily rejected message (#4.3.0)
+
+----------------------------------------------------------------------
+22/3/2010 17:04:05: Access violation at address 00526955 in module 'DANFE.exe'. Read of address 00B37260
+----------------------------------------------------------------------
+22/3/2010 17:07:41: Cannot open file "C:\Documents and Settings\arthur\Meus documentos\projetos\rdi\Produtos\OpenNFeV18\Danfe_mod_Advantech\bin\PrintBox\assNFe35100304425537000154550000000000029192756821.xml". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------
+9/4/2010 15:44:41: authentication failed (#5.7.1)
+
+----------------------------------------------------------------------
+9/4/2010 15:57:28: Access violation at address 00000000. Read of address 00000000
+----------------------------------------------------------------------

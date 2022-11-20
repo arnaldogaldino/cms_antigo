@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="cms.NFe.Comunic.Comunic" CodeBehind="Comunic.svc.cs" %>

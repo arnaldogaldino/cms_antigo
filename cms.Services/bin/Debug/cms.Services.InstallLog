@@ -1,0 +1,145 @@
+﻿Uninstalling assembly 'D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.InstallLog
+   assemblypath = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe
+Removing EventLog source cms.ServiceMain.
+Warning: The source cms.ServiceMain is not registered on the local machine.
+Service cms.ServiceMain is being removed from the system...
+Service cms.ServiceMain was successfully removed from the system.
+Installing assembly 'D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.InstallLog
+   assemblypath = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe
+Installing service cms.ServiceMain...
+Creating EventLog source cms.ServiceMain in log Application...
+Rolling back assembly 'D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.InstallLog
+   assemblypath = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe
+Restoring event log to previous state for source cms.ServiceMain.
+Installing assembly 'D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.InstallLog
+   assemblypath = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe
+Installing service cms.ServiceMain...
+Creating EventLog source cms.ServiceMain in log Application...
+Rolling back assembly 'D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.InstallLog
+   assemblypath = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe
+Restoring event log to previous state for source cms.ServiceMain.
+Installing assembly 'D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.InstallLog
+   assemblypath = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe
+Installing service cms.ServiceMain...
+Creating EventLog source cms.ServiceMain in log Application...
+Rolling back assembly 'D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.InstallLog
+   assemblypath = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe
+Restoring event log to previous state for source cms.ServiceMain.
+Uninstalling assembly 'D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.InstallLog
+   assemblypath = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe
+Removing EventLog source cms.ServiceMain.
+Warning: The source cms.ServiceMain is not registered on the local machine.
+Service cms.ServiceMain is being removed from the system...
+Service cms.ServiceMain was successfully removed from the system.
+Installing assembly 'D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.InstallLog
+   assemblypath = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe
+Installing service cms.ServiceMain...
+Creating EventLog source cms.ServiceMain in log Application...
+Rolling back assembly 'D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.InstallLog
+   assemblypath = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe
+Restoring event log to previous state for source cms.ServiceMain.
+Installing assembly 'D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.InstallLog
+   assemblypath = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe
+Installing service cms.ServiceMain...
+Creating EventLog source cms.ServiceMain in log Application...
+Rolling back assembly 'D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.InstallLog
+   assemblypath = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe
+Restoring event log to previous state for source cms.ServiceMain.
+Installing assembly 'D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.InstallLog
+   assemblypath = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe
+Installing service cms.ServiceMain...
+Creating EventLog source cms.ServiceMain in log Application...
+Rolling back assembly 'D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.InstallLog
+   assemblypath = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe
+Restoring event log to previous state for source cms.ServiceMain.
+Uninstalling assembly 'D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.InstallLog
+   assemblypath = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe
+Removing EventLog source cms.ServiceMain.
+Warning: The source cms.ServiceMain is not registered on the local machine.
+Service cms.ServiceMain is being removed from the system...
+Service cms.ServiceMain was successfully removed from the system.
+Installing assembly 'D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.InstallLog
+   assemblypath = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe
+Installing service cms.ServiceMain...
+Creating EventLog source cms.ServiceMain in log Application...
+Rolling back assembly 'D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.InstallLog
+   assemblypath = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe
+Restoring event log to previous state for source cms.ServiceMain.
+Uninstalling assembly 'D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.InstallLog
+   assemblypath = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe
+Removing EventLog source cms.ServiceMain.
+Warning: The source cms.ServiceMain is not registered on the local machine.
+Service cms.ServiceMain is being removed from the system...
+Service cms.ServiceMain was successfully removed from the system.
+Uninstalling assembly 'D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.InstallLog
+   assemblypath = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe
+Removing EventLog source cms.ServiceMain.
+Warning: The source cms.ServiceMain is not registered on the local machine.
+Service cms.ServiceMain is being removed from the system...
+Service cms.ServiceMain was successfully removed from the system.
+Uninstalling assembly 'D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.InstallLog
+   assemblypath = D:\projetos\cms\cms.Services\bin\Debug\cms.Services.exe
+Removing EventLog source cms.ServiceMain.
+Warning: The source cms.ServiceMain is not registered on the local machine.
+Service cms.ServiceMain is being removed from the system...
+Service cms.ServiceMain was successfully removed from the system.

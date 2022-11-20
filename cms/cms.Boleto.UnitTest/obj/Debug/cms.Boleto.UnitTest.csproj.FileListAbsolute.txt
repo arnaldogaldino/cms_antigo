@@ -1,0 +1,7 @@
+D:\projetos\cms\cms\cms.Boleto.UnitTest\bin\Debug\cms.Boleto.UnitTest.dll
+D:\projetos\cms\cms\cms.Boleto.UnitTest\bin\Debug\cms.Boleto.UnitTest.pdb
+D:\projetos\cms\cms\cms.Boleto.UnitTest\bin\Debug\cms.Boleto.dll
+D:\projetos\cms\cms\cms.Boleto.UnitTest\bin\Debug\cms.Boleto.pdb
+D:\projetos\cms\cms\cms.Boleto.UnitTest\obj\Debug\ResolveAssemblyReference.cache
+D:\projetos\cms\cms\cms.Boleto.UnitTest\obj\Debug\cms.Boleto.UnitTest.dll
+D:\projetos\cms\cms\cms.Boleto.UnitTest\obj\Debug\cms.Boleto.UnitTest.pdb

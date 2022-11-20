@@ -1,0 +1,1 @@
+C:\rdiserver2003\Produtos\OpenNFeV18\NFeAdminV2.0\bin\Debug\NFeAdmin.exe.config

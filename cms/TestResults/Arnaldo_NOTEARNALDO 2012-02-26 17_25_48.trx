@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="77e1bba6-d617-4526-99fb-a629e303350e" name="Arnaldo@NOTEARNALDO 2012-02-26 17:25:48" runUser="NoteArnaldo\Arnaldo" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="4a28c520-7b1c-48c0-99b0-b2ea6becd133">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Arnaldo_NOTEARNALDO 2012-02-26 17_25_48">
+      <DeploymentItem filename="D:\projetos\cms\cms\dll\WeifenLuo.WinFormsUI.Docking.dll" />
+      <DeploymentItem filename="D:\projetos\cms\cms.Data\bin\Debug\cms.Data.dll" />
+      <DeploymentItem filename="D:\projetos\cms\cms.nfe\bin\Debug\cms.nfe.dll" />
+      <DeploymentItem filename="D:\projetos\cms\boletonet-72824\Boleto.Net\Boleto.Net\bin\Release\Boleto.Net.dll" />
+      <DeploymentItem filename="D:\projetos\cms\cms\bin\Debug\cms.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-02-26T17:25:48.2871430-03:00" queuing="2012-02-26T17:25:56.7236256-03:00" start="2012-02-26T17:25:57.2446554-03:00" finish="2012-02-26T17:29:35.3871324-03:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="NOTEARNALDO" outcome="Error" timestamp="2012-02-26T17:29:35.3651311-03:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="InitializeTest" storage="d:\projetos\cms\cms\cms.unittest\bin\debug\cms.unittest.dll" id="ae315531-ebd3-22f6-6450-68dd1cc2f7ef">
+      <Execution id="2ee04559-e545-43da-bc56-26bfe1607985" />
+      <TestMethod codeBase="D:/projetos/cms/cms/cms.unitTest/bin/Debug/cms.unitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="cms.unitTest.cnFiscalNFeTest, cms.unitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InitializeTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ae315531-ebd3-22f6-6450-68dd1cc2f7ef" executionId="2ee04559-e545-43da-bc56-26bfe1607985" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="2ee04559-e545-43da-bc56-26bfe1607985" testId="ae315531-ebd3-22f6-6450-68dd1cc2f7ef" testName="InitializeTest" computerName="NOTEARNALDO" duration="00:03:37.7344537" startTime="2012-02-26T17:25:57.6526787-03:00" endTime="2012-02-26T17:29:35.3871324-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2ee04559-e545-43da-bc56-26bfe1607985">
+    </UnitTestResult>
+  </Results>
+</TestRun>

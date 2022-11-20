@@ -1,0 +1,2 @@
+D:\projetos\cms\nfe_libs\Fontes_C_\FontesC#\obj\Release\DemoNFeUtil.exe
+D:\projetos\cms\nfe_libs\Fontes_C_\FontesC#\obj\Release\DemoNFeUtil.pdb

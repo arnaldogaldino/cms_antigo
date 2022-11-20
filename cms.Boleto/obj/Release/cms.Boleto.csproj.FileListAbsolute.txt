@@ -1,0 +1,5 @@
+D:\projetos\cms\cms.Boleto\bin\Release\cms.Boleto.dll
+D:\projetos\cms\cms.Boleto\bin\Release\cms.Boleto.pdb
+D:\projetos\cms\cms.Boleto\obj\Release\ResolveAssemblyReference.cache
+D:\projetos\cms\cms.Boleto\obj\Release\cms.Boleto.dll
+D:\projetos\cms\cms.Boleto\obj\Release\cms.Boleto.pdb

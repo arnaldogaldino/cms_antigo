@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NFe2.Service">
+</Property><Property Name="Solution File" Value="D:\projetos\cms\nfe_libs\OpenNFe\nfe200\nfe200\src\NFe2.Service\NFe2.Service.sln">
+</Property><Property Name="Date" Value="quinta-feira, 26 de janeiro de 2012">
+</Property><Property Name="Time" Value="14:30:47">
+</Property></Properties><Event ErrorLevel="0" Project="NFe2.Service" Source="NFe2.Service.csproj" Description="Project file successfully backed up as D:\projetos\cms\nfe_libs\OpenNFe\nfe200\nfe200\src\NFe2.Service\Backup\NFe2.Service.csproj">
+</Event><Event ErrorLevel="0" Project="NFe2.Service" Source="NFe2.Service.csproj.user" Description="Project user file successfully backed up as D:\projetos\cms\nfe_libs\OpenNFe\nfe200\nfe200\src\NFe2.Service\Backup\NFe2.Service.csproj.user">
+</Event><Event ErrorLevel="0" Project="NFe2.Service" Source="NFe2.Service.Engine.cs" Description="File successfully backed up as D:\projetos\cms\nfe_libs\OpenNFe\nfe200\nfe200\src\NFe2.Service\Backup\NFe2.Service.Engine.cs">
+</Event><Event ErrorLevel="0" Project="NFe2.Service" Source="NFe2.Service.EngineInstaller.cs" Description="File successfully backed up as D:\projetos\cms\nfe_libs\OpenNFe\nfe200\nfe200\src\NFe2.Service\Backup\NFe2.Service.EngineInstaller.cs">
+</Event><Event ErrorLevel="0" Project="NFe2.Service" Source="NFe2.Service.EngineInstaller.Designer.cs" Description="File successfully backed up as D:\projetos\cms\nfe_libs\OpenNFe\nfe200\nfe200\src\NFe2.Service\Backup\NFe2.Service.EngineInstaller.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NFe2.Service" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\projetos\cms\nfe_libs\OpenNFe\nfe200\nfe200\src\NFe2.Service\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="NFe2.Service" Source="NFe2.Service.Engine.resx" Description="File successfully backed up as D:\projetos\cms\nfe_libs\OpenNFe\nfe200\nfe200\src\NFe2.Service\Backup\NFe2.Service.Engine.resx">
+</Event><Event ErrorLevel="0" Project="NFe2.Service" Source="NFe2.Service.EngineInstaller.resx" Description="File successfully backed up as D:\projetos\cms\nfe_libs\OpenNFe\nfe200\nfe200\src\NFe2.Service\Backup\NFe2.Service.EngineInstaller.resx">
+</Event><Event ErrorLevel="0" Project="NFe2.Service" Source="NFe2.Service.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NFe2.Service" Source="NFe2.Service.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NFe2.Service" Source="NFe2.Service.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,94 @@
+<Modules>
+  <Module PersistentId="B1E0D5ED-7B1A-42F3-8B63-DBC089D203A5" ModuleId="cms.ServiceUtil" />
+  <Module PersistentId="BA57A0C5-BDA4-4EF1-9932-4F05DCCF5F36" ModuleId="cms.NFe" />
+  <Module PersistentId="E599C1EE-9597-44E3-ABF5-EF64ED8881B7" ModuleId="cms.NFe.Comunic" />
+  <Module PersistentId="E37FF3E4-35C1-4F95-9FC5-E998C6C19D99" ModuleId="cms" />
+  <Module PersistentId="10A27FC4-9198-486A-A763-B31D244B368F" ModuleId="cms.Data" />
+  <Module PersistentId="4D3B1AF6-D281-4E41-88C4-5304ABBF20F1" ModuleId="cms.NFe.unitTest" />
+  <Module PersistentId="9B92142B-03E5-4E0B-A1B0-3D32DC3A0109" ModuleId="cms.unitTest" />
+  <Module PersistentId="F173E80B-E36B-48AD-B483-A27F8CA86F3C" ModuleId="Boleto.Net" />
+  <Module PersistentId="BCF0A280-C38C-45A4-BB39-51F030E5EE30" ModuleId="cms.Boleto" />
+  <Module PersistentId="F7E3422F-7724-43DA-AEF3-27CBB5894BE4" ModuleId="cms.Boleto.UnitTest" />
+  <Module PersistentId="86FC2694-064E-460E-8149-D4A71010FAE3" ModuleId="cms.Services" />
+  <Module PersistentId="Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="Microsoft.CSharp" />
+  <Module PersistentId="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" ModuleId="Microsoft.Office.Interop.Excel" />
+  <Module PersistentId="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="Microsoft.ReportViewer.Common" />
+  <Module PersistentId="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="Microsoft.ReportViewer.WinForms" />
+  <Module PersistentId="Microsoft.VisualBasic, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="Microsoft.VisualBasic" />
+  <Module PersistentId="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="Microsoft.VisualBasic.PowerPacks.Vs" />
+  <Module PersistentId="Microsoft.VisualStudio.Shell.10.0, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="Microsoft.VisualStudio.Shell.10.0" />
+  <Module PersistentId="PresentationCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="PresentationCore" />
+  <Module PersistentId="PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="PresentationFramework" />
+  <Module PersistentId="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System" />
+  <Module PersistentId="System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Configuration" />
+  <Module PersistentId="System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Core" />
+  <Module PersistentId="System.Data.Entity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Data.Entity" />
+  <Module PersistentId="System.Data.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Data.Linq" />
+  <Module PersistentId="System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Design" />
+  <Module PersistentId="System.EnterpriseServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.EnterpriseServices" />
+  <Module PersistentId="System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Management" />
+  <Module PersistentId="System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Runtime.Serialization" />
+  <Module PersistentId="System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Security" />
+  <Module PersistentId="System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.ServiceModel" />
+  <Module PersistentId="System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Web" />
+  <Module PersistentId="System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="System.Web.Extensions" />
+  <Module PersistentId="System.Web.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Web.Services" />
+  <Module PersistentId="System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Xml.Linq" />
+  <Module PersistentId="System.Data.DataSetExtensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Data.DataSetExtensions" />
+  <Module PersistentId="System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Data" />
+  <Module PersistentId="System.Deployment, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Deployment" />
+  <Module PersistentId="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Drawing" />
+  <Module PersistentId="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Windows.Forms" />
+  <Module PersistentId="System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Xml" />
+  <Module PersistentId="UIAutomationProvider, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="UIAutomationProvider" />
+  <Module PersistentId="WeifenLuo.WinFormsUI.Docking, Version=2.3.1.24483, Culture=neutral, PublicKeyToken=null" ModuleId="WeifenLuo.WinFormsUI.Docking" />
+  <Module PersistentId="WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="WindowsBase" />
+  <Module PersistentId="WindowsFormsIntegration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="WindowsFormsIntegration" />
+  <Module PersistentId="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib" />
+  <Module PersistentId="FuturaDataNFeLibrary, Version=2.1.4070.18448, Culture=neutral, PublicKeyToken=null" ModuleId="FuturaDataNFeLibrary" />
+  <Module PersistentId="System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System_1" />
+  <Module PersistentId="System.Configuration, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Configuration_1" />
+  <Module PersistentId="System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Core_1" />
+  <Module PersistentId="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Drawing_1" />
+  <Module PersistentId="System.EnterpriseServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.EnterpriseServices_1" />
+  <Module PersistentId="System.Net, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Net" />
+  <Module PersistentId="System.Runtime.Serialization, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Runtime.Serialization_1" />
+  <Module PersistentId="System.Security, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Security_1" />
+  <Module PersistentId="System.ServiceModel, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.ServiceModel_1" />
+  <Module PersistentId="System.Web, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Web_1" />
+  <Module PersistentId="System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="System.Web.Extensions_1" />
+  <Module PersistentId="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Web.Services_1" />
+  <Module PersistentId="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Windows.Forms_1" />
+  <Module PersistentId="System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Xml.Linq_1" />
+  <Module PersistentId="System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Data.DataSetExtensions_1" />
+  <Module PersistentId="System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Data_1" />
+  <Module PersistentId="System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Xml_1" />
+  <Module PersistentId="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib_1" />
+  <Module PersistentId="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="Microsoft.VisualStudio.QualityTools.UnitTestFramework" />
+  <Module PersistentId="System.Net, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Net_1" />
+  <Module PersistentId="Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="Microsoft.VisualBasic_1" />
+  <Module PersistentId="System.Design, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Design_1" />
+  <Module PersistentId="System.Configuration.Install, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Configuration.Install" />
+  <Module PersistentId="System.ServiceProcess, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.ServiceProcess" />
+  <Module PersistentId="System.ServiceModel.Web, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="System.ServiceModel.Web" />
+  <Module PersistentId="System.Web.Mobile, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Web.Mobile" />
+  <Module PersistentId="Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="Microsoft.CSharp_1" />
+  <Module PersistentId="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System_2" />
+  <Module PersistentId="System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Configuration_2" />
+  <Module PersistentId="System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Core_2" />
+  <Module PersistentId="System.EnterpriseServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.EnterpriseServices_2" />
+  <Module PersistentId="System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Management_1" />
+  <Module PersistentId="System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Runtime.Serialization_2" />
+  <Module PersistentId="System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Security_2" />
+  <Module PersistentId="System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Web_2" />
+  <Module PersistentId="System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Xml.Linq_2" />
+  <Module PersistentId="System.Data.DataSetExtensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Data.DataSetExtensions_2" />
+  <Module PersistentId="System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Data_2" />
+  <Module PersistentId="System.Deployment, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Deployment_1" />
+  <Module PersistentId="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Drawing_2" />
+  <Module PersistentId="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Windows.Forms_2" />
+  <Module PersistentId="System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Xml_2" />
+  <Module PersistentId="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib_2" />
+  <Module PersistentId="System.Configuration.Install, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Configuration.Install_1" />
+  <Module PersistentId="System.ServiceProcess, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.ServiceProcess_1" />
+</Modules>

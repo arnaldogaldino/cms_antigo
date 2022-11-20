@@ -1,0 +1,14 @@
+<libeay32.dll>
+MD5          : 378aee8dc61e4f361aa6b4b280ea69a4
+RipeMD160    : a8d81dcc18dc4082febe3d021824a9550f5340ef
+SHA1         : 8e002df3bd3d009da3215954348c98f49a4c5e24
+
+<ssleay32.dll>
+MD5          : 5e22cda80d71ef262d7f306fe7418421
+RipeMD160    : f7e8275b9dd0452bc89cba796142c242fb4b3cda
+SHA1         : f2fd24370a7698f3ebe68273add1b423c5fb2c45
+
+<openssl.exe>
+MD5          : 17ad36fb09b55b725ffb6e56663fc2e5
+RipeMD160    : 6833b6563fec9166feba898af9fae0fb7ca7d633
+SHA1         : 51a8f60d2ddda09e826787800ee36a89dc16c984

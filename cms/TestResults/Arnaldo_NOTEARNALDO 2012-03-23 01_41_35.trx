@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="2b030a09-30ee-4dcd-9023-5637ade295ba" name="Arnaldo@NOTEARNALDO 2012-03-23 01:41:35" runUser="NoteArnaldo\Arnaldo" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="4a28c520-7b1c-48c0-99b0-b2ea6becd133">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Arnaldo_NOTEARNALDO 2012-03-23 01_41_35">
+      <DeploymentItem filename="D:\projetos\cms\cms.nfe\bin\Debug\cms.nfe.dll" />
+      <DeploymentItem filename="C:\FuturaData\FuturaDataNFE\FuturaDataNFeLibrary.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-03-23T01:41:35.9405976-03:00" queuing="2012-03-23T01:41:40.7158707-03:00" start="2012-03-23T01:41:41.0398892-03:00" finish="2012-03-23T01:42:13.7937626-03:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="NOTEARNALDO" outcome="Error" timestamp="2012-03-23T01:42:13.7867622-03:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="InitializedTest" storage="d:\projetos\cms\cms.nfe.unittest\bin\debug\cms.nfe.unittest.dll" id="ad07d2a2-4900-acba-dbc5-176fe4e11882">
+      <Execution id="df153443-fcb3-459d-a965-efb6061451d6" />
+      <TestMethod codeBase="D:/projetos/cms/cms.NFe.unitTest/bin/Debug/cms.NFe.unitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="cms.NFe.unitTest.ServiceReferenceNFeTest, cms.NFe.unitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InitializedTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ad07d2a2-4900-acba-dbc5-176fe4e11882" executionId="df153443-fcb3-459d-a965-efb6061451d6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="df153443-fcb3-459d-a965-efb6061451d6" testId="ad07d2a2-4900-acba-dbc5-176fe4e11882" testName="InitializedTest" computerName="NOTEARNALDO" duration="00:00:32.5098594" startTime="2012-03-23T01:41:41.2839032-03:00" endTime="2012-03-23T01:42:13.7937626-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="df153443-fcb3-459d-a965-efb6061451d6">
+    </UnitTestResult>
+  </Results>
+</TestRun>

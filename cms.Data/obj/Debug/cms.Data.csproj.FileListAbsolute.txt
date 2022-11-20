@@ -1,0 +1,12 @@
+D:\projetos\cms.Data\bin\Debug\cms.Data.dll.config
+D:\projetos\cms.Data\bin\Debug\cms.Data.dll
+D:\projetos\cms.Data\bin\Debug\cms.Data.pdb
+D:\projetos\cms.Data\obj\Debug\ResolveAssemblyReference.cache
+D:\projetos\cms.Data\obj\Debug\cms.Data.dll
+D:\projetos\cms.Data\obj\Debug\cms.Data.pdb
+D:\projetos\cms\cms.Data\bin\Debug\cms.Data.dll.config
+D:\projetos\cms\cms.Data\bin\Debug\cms.Data.dll
+D:\projetos\cms\cms.Data\bin\Debug\cms.Data.pdb
+D:\projetos\cms\cms.Data\obj\Debug\ResolveAssemblyReference.cache
+D:\projetos\cms\cms.Data\obj\Debug\cms.Data.dll
+D:\projetos\cms\cms.Data\obj\Debug\cms.Data.pdb

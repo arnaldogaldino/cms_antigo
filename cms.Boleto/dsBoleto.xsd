@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsBoleto" targetNamespace="http://tempuri.org/dsBoleto.xsd" xmlns:mstns="http://tempuri.org/dsBoleto.xsd" xmlns="http://tempuri.org/dsBoleto.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsBoleto" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsBoleto" msprop:Generator_UserDSName="dsBoleto">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Banco" msprop:Generator_TableClassName="BancoDataTable" msprop:Generator_TableVarName="tableBanco" msprop:Generator_TablePropName="Banco" msprop:Generator_RowDeletingName="BancoRowDeleting" msprop:Generator_UserTableName="Banco" msprop:Generator_RowChangingName="BancoRowChanging" msprop:Generator_RowEvHandlerName="BancoRowChangeEventHandler" msprop:Generator_RowDeletedName="BancoRowDeleted" msprop:Generator_RowEvArgName="BancoRowChangeEvent" msprop:Generator_RowChangedName="BancoRowChanged" msprop:Generator_RowClassName="BancoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo" msprop:Generator_ColumnVarNameInTable="columncodigo" msprop:Generator_ColumnPropNameInRow="codigo" msprop:Generator_ColumnPropNameInTable="codigoColumn" msprop:Generator_UserColumnName="codigo" type="xs:int" minOccurs="0" />
+              <xs:element name="nome" msprop:Generator_ColumnVarNameInTable="columnnome" msprop:Generator_ColumnPropNameInRow="nome" msprop:Generator_ColumnPropNameInTable="nomeColumn" msprop:Generator_UserColumnName="nome" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Especie" msprop:Generator_TableClassName="EspecieDataTable" msprop:Generator_TableVarName="tableEspecie" msprop:Generator_TablePropName="Especie" msprop:Generator_RowDeletingName="EspecieRowDeleting" msprop:Generator_UserTableName="Especie" msprop:Generator_RowChangingName="EspecieRowChanging" msprop:Generator_RowEvHandlerName="EspecieRowChangeEventHandler" msprop:Generator_RowDeletedName="EspecieRowDeleted" msprop:Generator_RowEvArgName="EspecieRowChangeEvent" msprop:Generator_RowChangedName="EspecieRowChanged" msprop:Generator_RowClassName="EspecieRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo" msprop:Generator_ColumnVarNameInTable="columncodigo" msprop:Generator_ColumnPropNameInRow="codigo" msprop:Generator_ColumnPropNameInTable="codigoColumn" msprop:Generator_UserColumnName="codigo" type="xs:int" minOccurs="0" />
+              <xs:element name="especie" msprop:Generator_ColumnVarNameInTable="columnespecie" msprop:Generator_ColumnPropNameInRow="especie" msprop:Generator_ColumnPropNameInTable="especieColumn" msprop:Generator_UserColumnName="especie" type="xs:string" minOccurs="0" />
+              <xs:element name="descricao" msprop:Generator_ColumnVarNameInTable="columndescricao" msprop:Generator_ColumnPropNameInRow="descricao" msprop:Generator_ColumnPropNameInTable="descricaoColumn" msprop:Generator_UserColumnName="descricao" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Carteira" msprop:Generator_TableClassName="CarteiraDataTable" msprop:Generator_TableVarName="tableCarteira" msprop:Generator_TablePropName="Carteira" msprop:Generator_RowDeletingName="CarteiraRowDeleting" msprop:Generator_UserTableName="Carteira" msprop:Generator_RowChangingName="CarteiraRowChanging" msprop:Generator_RowEvHandlerName="CarteiraRowChangeEventHandler" msprop:Generator_RowDeletedName="CarteiraRowDeleted" msprop:Generator_RowEvArgName="CarteiraRowChangeEvent" msprop:Generator_RowChangedName="CarteiraRowChanged" msprop:Generator_RowClassName="CarteiraRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo" msprop:Generator_ColumnVarNameInTable="columncodigo" msprop:Generator_ColumnPropNameInRow="codigo" msprop:Generator_ColumnPropNameInTable="codigoColumn" msprop:Generator_UserColumnName="codigo" type="xs:int" minOccurs="0" />
+              <xs:element name="carteira" msprop:Generator_ColumnVarNameInTable="columncarteira" msprop:Generator_ColumnPropNameInRow="carteira" msprop:Generator_ColumnPropNameInTable="carteiraColumn" msprop:Generator_UserColumnName="carteira" type="xs:string" minOccurs="0" />
+              <xs:element name="descricao" msprop:Generator_ColumnVarNameInTable="columndescricao" msprop:Generator_ColumnPropNameInRow="descricao" msprop:Generator_ColumnPropNameInTable="descricaoColumn" msprop:Generator_UserColumnName="descricao" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="OcorrenciaRemessa" msprop:Generator_TableClassName="OcorrenciaRemessaDataTable" msprop:Generator_TableVarName="tableOcorrenciaRemessa" msprop:Generator_TablePropName="OcorrenciaRemessa" msprop:Generator_RowDeletingName="OcorrenciaRemessaRowDeleting" msprop:Generator_UserTableName="OcorrenciaRemessa" msprop:Generator_RowChangingName="OcorrenciaRemessaRowChanging" msprop:Generator_RowEvHandlerName="OcorrenciaRemessaRowChangeEventHandler" msprop:Generator_RowDeletedName="OcorrenciaRemessaRowDeleted" msprop:Generator_RowEvArgName="OcorrenciaRemessaRowChangeEvent" msprop:Generator_RowChangedName="OcorrenciaRemessaRowChanged" msprop:Generator_RowClassName="OcorrenciaRemessaRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo" msprop:Generator_ColumnVarNameInTable="columncodigo" msprop:Generator_ColumnPropNameInRow="codigo" msprop:Generator_ColumnPropNameInTable="codigoColumn" msprop:Generator_UserColumnName="codigo" type="xs:int" minOccurs="0" />
+              <xs:element name="ocorrencia" msprop:Generator_ColumnVarNameInTable="columnocorrencia" msprop:Generator_ColumnPropNameInRow="ocorrencia" msprop:Generator_ColumnPropNameInTable="ocorrenciaColumn" msprop:Generator_UserColumnName="ocorrencia" type="xs:string" minOccurs="0" />
+              <xs:element name="descricao" msprop:Generator_ColumnVarNameInTable="columndescricao" msprop:Generator_ColumnPropNameInRow="descricao" msprop:Generator_ColumnPropNameInTable="descricaoColumn" msprop:Generator_UserColumnName="descricao" type="xs:string" minOccurs="0" />
+              <xs:element name="obs" msprop:Generator_ColumnVarNameInTable="columnobs" msprop:Generator_ColumnPropNameInRow="obs" msprop:Generator_ColumnPropNameInTable="obsColumn" msprop:Generator_UserColumnName="obs" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="OcorrenciaRemessaObs" msprop:Generator_TableClassName="OcorrenciaRemessaObsDataTable" msprop:Generator_TableVarName="tableOcorrenciaRemessaObs" msprop:Generator_TablePropName="OcorrenciaRemessaObs" msprop:Generator_RowDeletingName="OcorrenciaRemessaObsRowDeleting" msprop:Generator_UserTableName="OcorrenciaRemessaObs" msprop:Generator_RowChangingName="OcorrenciaRemessaObsRowChanging" msprop:Generator_RowEvHandlerName="OcorrenciaRemessaObsRowChangeEventHandler" msprop:Generator_RowDeletedName="OcorrenciaRemessaObsRowDeleted" msprop:Generator_RowEvArgName="OcorrenciaRemessaObsRowChangeEvent" msprop:Generator_RowChangedName="OcorrenciaRemessaObsRowChanged" msprop:Generator_RowClassName="OcorrenciaRemessaObsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo" msprop:Generator_ColumnVarNameInTable="columncodigo" msprop:Generator_ColumnPropNameInRow="codigo" msprop:Generator_ColumnPropNameInTable="codigoColumn" msprop:Generator_UserColumnName="codigo" type="xs:int" minOccurs="0" />
+              <xs:element name="ocorrencia" msprop:Generator_ColumnVarNameInTable="columnocorrencia" msprop:Generator_ColumnPropNameInRow="ocorrencia" msprop:Generator_ColumnPropNameInTable="ocorrenciaColumn" msprop:Generator_UserColumnName="ocorrencia" type="xs:string" minOccurs="0" />
+              <xs:element name="obs" msprop:Generator_ColumnVarNameInTable="columnobs" msprop:Generator_ColumnPropNameInRow="obs" msprop:Generator_ColumnPropNameInTable="obsColumn" msprop:Generator_UserColumnName="obs" type="xs:string" minOccurs="0" />
+              <xs:element name="descricao" msprop:Generator_ColumnVarNameInTable="columndescricao" msprop:Generator_ColumnPropNameInRow="descricao" msprop:Generator_ColumnPropNameInTable="descricaoColumn" msprop:Generator_UserColumnName="descricao" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Instrucao" msprop:Generator_TableClassName="InstrucaoDataTable" msprop:Generator_TableVarName="tableInstrucao" msprop:Generator_TablePropName="Instrucao" msprop:Generator_RowDeletingName="InstrucaoRowDeleting" msprop:Generator_UserTableName="Instrucao" msprop:Generator_RowChangingName="InstrucaoRowChanging" msprop:Generator_RowEvHandlerName="InstrucaoRowChangeEventHandler" msprop:Generator_RowDeletedName="InstrucaoRowDeleted" msprop:Generator_RowEvArgName="InstrucaoRowChangeEvent" msprop:Generator_RowChangedName="InstrucaoRowChanged" msprop:Generator_RowClassName="InstrucaoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo" msprop:Generator_ColumnVarNameInTable="columncodigo" msprop:Generator_ColumnPropNameInRow="codigo" msprop:Generator_ColumnPropNameInTable="codigoColumn" msprop:Generator_UserColumnName="codigo" type="xs:int" minOccurs="0" />
+              <xs:element name="instrucao" msprop:Generator_ColumnVarNameInTable="columninstrucao" msprop:Generator_ColumnPropNameInRow="instrucao" msprop:Generator_ColumnPropNameInTable="instrucaoColumn" msprop:Generator_UserColumnName="instrucao" type="xs:string" minOccurs="0" />
+              <xs:element name="descricao" msprop:Generator_ColumnVarNameInTable="columndescricao" msprop:Generator_ColumnPropNameInRow="descricao" msprop:Generator_ColumnPropNameInTable="descricaoColumn" msprop:Generator_UserColumnName="descricao" type="xs:string" minOccurs="0" />
+              <xs:element name="obs" msprop:Generator_ColumnVarNameInTable="columnobs" msprop:Generator_ColumnPropNameInRow="obs" msprop:Generator_ColumnPropNameInTable="obsColumn" msprop:Generator_UserColumnName="obs" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="OcorrenciaRetorno" msprop:Generator_TableClassName="OcorrenciaRetornoDataTable" msprop:Generator_TableVarName="tableOcorrenciaRetorno" msprop:Generator_TablePropName="OcorrenciaRetorno" msprop:Generator_RowDeletingName="OcorrenciaRetornoRowDeleting" msprop:Generator_UserTableName="OcorrenciaRetorno" msprop:Generator_RowChangingName="OcorrenciaRetornoRowChanging" msprop:Generator_RowEvHandlerName="OcorrenciaRetornoRowChangeEventHandler" msprop:Generator_RowDeletedName="OcorrenciaRetornoRowDeleted" msprop:Generator_RowEvArgName="OcorrenciaRetornoRowChangeEvent" msprop:Generator_RowChangedName="OcorrenciaRetornoRowChanged" msprop:Generator_RowClassName="OcorrenciaRetornoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo" msprop:Generator_ColumnVarNameInTable="columncodigo" msprop:Generator_ColumnPropNameInRow="codigo" msprop:Generator_ColumnPropNameInTable="codigoColumn" msprop:Generator_UserColumnName="codigo" type="xs:int" minOccurs="0" />
+              <xs:element name="ocorrencia" msprop:Generator_ColumnVarNameInTable="columnocorrencia" msprop:Generator_ColumnPropNameInRow="ocorrencia" msprop:Generator_ColumnPropNameInTable="ocorrenciaColumn" msprop:Generator_UserColumnName="ocorrencia" type="xs:string" minOccurs="0" />
+              <xs:element name="descricao" msprop:Generator_ColumnVarNameInTable="columndescricao" msprop:Generator_ColumnPropNameInRow="descricao" msprop:Generator_ColumnPropNameInTable="descricaoColumn" msprop:Generator_UserColumnName="descricao" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="OcorrenciaRetornoErro" msprop:Generator_TableClassName="OcorrenciaRetornoErroDataTable" msprop:Generator_TableVarName="tableOcorrenciaRetornoErro" msprop:Generator_TablePropName="OcorrenciaRetornoErro" msprop:Generator_RowDeletingName="OcorrenciaRetornoErroRowDeleting" msprop:Generator_UserTableName="OcorrenciaRetornoErro" msprop:Generator_RowChangingName="OcorrenciaRetornoErroRowChanging" msprop:Generator_RowEvHandlerName="OcorrenciaRetornoErroRowChangeEventHandler" msprop:Generator_RowDeletedName="OcorrenciaRetornoErroRowDeleted" msprop:Generator_RowEvArgName="OcorrenciaRetornoErroRowChangeEvent" msprop:Generator_RowChangedName="OcorrenciaRetornoErroRowChanged" msprop:Generator_RowClassName="OcorrenciaRetornoErroRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo" msprop:Generator_ColumnVarNameInTable="columncodigo" msprop:Generator_ColumnPropNameInRow="codigo" msprop:Generator_ColumnPropNameInTable="codigoColumn" msprop:Generator_UserColumnName="codigo" type="xs:int" minOccurs="0" />
+              <xs:element name="ocorrencia" msprop:Generator_ColumnVarNameInTable="columnocorrencia" msprop:Generator_ColumnPropNameInRow="ocorrencia" msprop:Generator_ColumnPropNameInTable="ocorrenciaColumn" msprop:Generator_UserColumnName="ocorrencia" type="xs:string" minOccurs="0" />
+              <xs:element name="campo" msprop:Generator_ColumnVarNameInTable="columncampo" msprop:Generator_ColumnPropNameInRow="campo" msprop:Generator_ColumnPropNameInTable="campoColumn" msprop:Generator_UserColumnName="campo" type="xs:string" minOccurs="0" />
+              <xs:element name="descricao" msprop:Generator_ColumnVarNameInTable="columndescricao" msprop:Generator_ColumnPropNameInRow="descricao" msprop:Generator_ColumnPropNameInTable="descricaoColumn" msprop:Generator_UserColumnName="descricao" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="Carteira_Banco" msdata:parent="Carteira" msdata:child="Banco" msdata:parentkey="codigo" msdata:childkey="codigo" msprop:Generator_UserChildTable="Banco" msprop:Generator_ChildPropName="GetBancoRows" msprop:Generator_ParentPropName="CarteiraRow" msprop:Generator_UserRelationName="Carteira_Banco" msprop:Generator_RelationVarName="relationCarteira_Banco" msprop:Generator_UserParentTable="Carteira" />
+      <msdata:Relationship name="Instrucao_Banco" msdata:parent="Instrucao" msdata:child="Banco" msdata:parentkey="codigo" msdata:childkey="codigo" msprop:Generator_UserChildTable="Banco" msprop:Generator_ChildPropName="GetBancoRows" msprop:Generator_ParentPropName="InstrucaoRow" msprop:Generator_UserRelationName="Instrucao_Banco" msprop:Generator_RelationVarName="relationInstrucao_Banco" msprop:Generator_UserParentTable="Instrucao" />
+      <msdata:Relationship name="OcorrenciaRetorno_Banco" msdata:parent="OcorrenciaRetorno" msdata:child="Banco" msdata:parentkey="codigo" msdata:childkey="codigo" msprop:Generator_UserChildTable="Banco" msprop:Generator_ChildPropName="GetBancoRows" msprop:Generator_ParentPropName="OcorrenciaRetornoRow" msprop:Generator_UserRelationName="OcorrenciaRetorno_Banco" msprop:Generator_RelationVarName="relationOcorrenciaRetorno_Banco" msprop:Generator_UserParentTable="OcorrenciaRetorno" />
+      <msdata:Relationship name="OcorrenciaRetornoErro_Banco" msdata:parent="OcorrenciaRetornoErro" msdata:child="Banco" msdata:parentkey="codigo" msdata:childkey="codigo" msprop:Generator_UserChildTable="Banco" msprop:Generator_ChildPropName="GetBancoRows" msprop:Generator_ParentPropName="OcorrenciaRetornoErroRow" msprop:Generator_UserRelationName="OcorrenciaRetornoErro_Banco" msprop:Generator_RelationVarName="relationOcorrenciaRetornoErro_Banco" msprop:Generator_UserParentTable="OcorrenciaRetornoErro" />
+      <msdata:Relationship name="OcorrenciaRetornoErro_OcorrenciaRetorno" msdata:parent="OcorrenciaRetornoErro" msdata:child="OcorrenciaRetorno" msdata:parentkey="ocorrencia" msdata:childkey="ocorrencia" msprop:Generator_UserChildTable="OcorrenciaRetorno" msprop:Generator_ChildPropName="GetOcorrenciaRetornoRows" msprop:Generator_ParentPropName="OcorrenciaRetornoErroRow" msprop:Generator_UserRelationName="OcorrenciaRetornoErro_OcorrenciaRetorno" msprop:Generator_RelationVarName="relationOcorrenciaRetornoErro_OcorrenciaRetorno" msprop:Generator_UserParentTable="OcorrenciaRetornoErro" />
+      <msdata:Relationship name="Especie_Banco" msdata:parent="Especie" msdata:child="Banco" msdata:parentkey="codigo" msdata:childkey="codigo" msprop:Generator_UserChildTable="Banco" msprop:Generator_ChildPropName="GetBancoRows" msprop:Generator_ParentPropName="EspecieRow" msprop:Generator_UserRelationName="Especie_Banco" msprop:Generator_RelationVarName="relationEspecie_Banco" msprop:Generator_UserParentTable="Especie" />
+      <msdata:Relationship name="OcorrenciaRemessa_Banco" msdata:parent="OcorrenciaRemessa" msdata:child="Banco" msdata:parentkey="codigo" msdata:childkey="codigo" msprop:Generator_UserChildTable="Banco" msprop:Generator_ChildPropName="GetBancoRows" msprop:Generator_ParentPropName="OcorrenciaRemessaRow" msprop:Generator_UserRelationName="OcorrenciaRemessa_Banco" msprop:Generator_RelationVarName="relationOcorrenciaRemessa_Banco" msprop:Generator_UserParentTable="OcorrenciaRemessa" />
+      <msdata:Relationship name="OcorrenciaRemessaObs_Banco" msdata:parent="OcorrenciaRemessaObs" msdata:child="Banco" msdata:parentkey="codigo" msdata:childkey="codigo" msprop:Generator_UserChildTable="Banco" msprop:Generator_ChildPropName="GetBancoRows" msprop:Generator_ParentPropName="OcorrenciaRemessaObsRow" msprop:Generator_UserRelationName="OcorrenciaRemessaObs_Banco" msprop:Generator_RelationVarName="relationOcorrenciaRemessaObs_Banco" msprop:Generator_UserParentTable="OcorrenciaRemessaObs" />
+      <msdata:Relationship name="OcorrenciaRemessaObs_OcorrenciaRemessa" msdata:parent="OcorrenciaRemessaObs" msdata:child="OcorrenciaRemessa" msdata:parentkey="ocorrencia" msdata:childkey="ocorrencia" msprop:Generator_UserChildTable="OcorrenciaRemessa" msprop:Generator_ChildPropName="GetOcorrenciaRemessaRows" msprop:Generator_ParentPropName="OcorrenciaRemessaObsRow" msprop:Generator_UserRelationName="OcorrenciaRemessaObs_OcorrenciaRemessa" msprop:Generator_RelationVarName="relationOcorrenciaRemessaObs_OcorrenciaRemessa" msprop:Generator_UserParentTable="OcorrenciaRemessaObs" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>
